@@ -1,4 +1,7 @@
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img src="favela.png" alt="Cover Image" style="width: 100%; max-width: 100%; height: 50%;" />
+</div>
+<!-- cmnt -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
